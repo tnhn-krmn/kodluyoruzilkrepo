@@ -37,5 +37,13 @@ MIT
 ![psgsql6](https://user-images.githubusercontent.com/75361048/145458496-2ac2040d-a689-4b7c-8be3-3d72c5dd26dc.png)
 ![psgsql5](https://user-images.githubusercontent.com/75361048/145458489-c10b7ae3-e076-45c1-b65c-ba38e99b6a51.png)
 
+# SQL DERSİ - ödev 3
+![psgsql6](https://user-images.githubusercontent.com/75361048/145462842-616b6a9a-e3f1-4e90-8d58-d7058ddb1cd7.png)
+![psgsql7](https://user-images.githubusercontent.com/75361048/145462854-69818cef-4603-4a1c-bca0-e1b3e95b4459.png)
+![psgsql8](https://user-images.githubusercontent.com/75361048/145462855-d7adc7c1-5114-4bde-9cb4-e58e51a85d2a.png)
+![psgsql9](https://user-images.githubusercontent.com/75361048/145462859-ca05a519-6ded-4cc9-a776-d2bd86f78f5b.png)
+![psgsql10](https://user-images.githubusercontent.com/75361048/145462863-ebce3ef7-a319-4413-9fa8-8545f0d0e3c6.png)
+![psgsql11](https://user-images.githubusercontent.com/75361048/145462864-dfc552ba-4508-477a-834f-3b54960c7ece.png)
+
 
 
