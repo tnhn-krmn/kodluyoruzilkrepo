@@ -25,3 +25,13 @@ istediğiniz tartışmak için bir konu açınız.
 MIT 
 
 
+# SQL DERSİ
+![psgsql](https://user-images.githubusercontent.com/75361048/145451096-f827e4c4-d12c-4bcb-ac08-67e7a4bc9cb5.png)
+![psgsql1](https://user-images.githubusercontent.com/75361048/145451101-38f4fb2d-431d-4d10-9952-31b06bdeadd7.png)
+![psgsql2](https://user-images.githubusercontent.com/75361048/145451103-7cabd025-ed7a-473e-bdf4-96d9a7077461.png)
+![psgsql3](https://user-images.githubusercontent.com/75361048/145451107-32a16399-7eab-49b4-80cf-58d7fb8bec3e.png)
+![psgsql4](https://user-images.githubusercontent.com/75361048/145451111-39885a01-02b0-4c90-99ac-d8f32c631137.png)
+
+
+
+
