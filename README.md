@@ -45,5 +45,10 @@ MIT
 ![psgsql10](https://user-images.githubusercontent.com/75361048/145462863-ebce3ef7-a319-4413-9fa8-8545f0d0e3c6.png)
 ![psgsql11](https://user-images.githubusercontent.com/75361048/145462864-dfc552ba-4508-477a-834f-3b54960c7ece.png)
 
-
+# SQL DERSİ - ödev 4
+![psgsql12](https://user-images.githubusercontent.com/75361048/145466530-91e1b823-020c-4bd8-9747-f735d02de9d7.png)
+![psgsql13](https://use![psgsql12](https://user-images.githubusercontent.com/75361048/145466596-e53f101e-9908-46f5-8c34-4d4614ccdd74.png)
+r-images.githubusercontent.com/75361048/145466535-ba969815-6b76-497b-9eed-587f27c1ee7d.png)
+![psgsql14](htt![psgsql15](https://user-images.githubusercontent.com/75361048/145466573-769f2812-06ea-4d06-ac38-9c456c08fd09.png)
+ps://user-images.githubusercontent.com/75361048/145466536-3617a029-efa3-41eb-8c25-ed8702c737df.png)
 
