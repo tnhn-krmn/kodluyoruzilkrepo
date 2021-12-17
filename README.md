@@ -64,7 +64,9 @@ ps://user-images.githubusercontent.com/75361048/145466536-3617a029-efa3-41eb-8c2
 ![psgsql22](https://user-images.githubusercontent.com/75361048/146443657-2b3142aa-3c4e-4b2e-989b-f9bfae1a06a7.png)
 
 
-
+# SQL DERSİ - ödev 7
+![Uploading psgsql24.png…]()
+![Uploading psgsql23.png…]()
 
 
 
