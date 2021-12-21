@@ -68,7 +68,11 @@ ps://user-images.githubusercontent.com/75361048/145466536-3617a029-efa3-41eb-8c2
 ![Uploading psgsql24.png…]()
 ![Uploading psgsql23.png…]()
 
+# SQL DERSİ - ödev 8
 
+![psgsql25](https://user-images.githubusercontent.com/75361048/146987374-c4dd5283-9d5f-4067-89da-e8c647d2e896.png)
+![psgsql26](https://user-images.githubusercontent.com/75361048/146987378-ca462e3c-196a-42fa-98b0-3e97565858e2.png)
+![psgsql27](https://user-images.githubusercontent.com/75361048/146987381-23c392b4-7748-44cc-a74c-650d4eab8d86.png)
 
 
 
