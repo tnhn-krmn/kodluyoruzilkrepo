@@ -84,7 +84,13 @@ ps://user-images.githubusercontent.com/75361048/145466536-3617a029-efa3-41eb-8c2
 ![psgsql32](https://user-images.githubusercontent.com/75361048/147417950-1b78196d-3b71-4b41-805a-2c21599521b0.png)
 ![psgsql31](https://user-images.githubusercontent.com/75361048/147417953-a26e79d7-4456-4cbd-8605-62d9d98aabce.png)
 
+# SQL DERSİ - ödev 11
 
+
+![psgsql35](https://user-images.githubusercontent.com/75361048/147418449-b15f83f7-f455-4662-b28a-f84e2378443b.png)
+![![psgsql34](https://user-images.githubusercontent.com/75361048/147418452-32e1f00b-1488-4cc3-90e4-3228b741e73d.png)
+psgsql36](https://user-images.githubusercontent.com/75361048/147418451-4819c015-2b1d-4b33-ba34-ef3d750d6c80.png)
+![psgsql37](https://user-images.githubusercontent.com/75361048/147418479-0ee48bb0-a936-49ca-b0ca-9a9f4c6419ab.png)
 
 
 
